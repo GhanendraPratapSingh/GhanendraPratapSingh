@@ -1,4 +1,4 @@
-![Logo](https://github.com/GhanendraPratapSingh/GhanendraPratapSingh/blob/main/github-header-image.png)
+![Logo](https://github.com/GhanendraPratapSingh/GhanendraPratapSingh/blob/main/github-header-image%20(1).png)
 <h1 align="center">Hi 👋, I'm Ghanendra Pratap Singh</h1>
 <h3 align="center">A passionate Front-end developer from India</h3>
 
